@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:baselineAligned="false"
     tools:context=".MainActivity">
 
     <fragment
         android:id="@+id/fragment2"
-        android:name="com.example.rotacion1.Grande"
+        android:name="com.example.rotacion1.GrandeFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="1" />
+        android:layout_weight="2"
+        tools:layout="@layout/fragment_grande" />
 
     <LinearLayout
-        android:layout_width="0dp"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:layout_weight="1"
         android:orientation="vertical">
 
         <fragment
             android:id="@+id/fragment"
-            android:name="com.example.rotacion1.Texto"
+            android:name="com.example.rotacion1.TextoFragment"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            tools:layout="@layout/fragment_texto" />
 
         <fragment
             android:id="@+id/fragment3"
-            android:name="com.example.rotacion1.cuatro"
+            android:name="com.example.rotacion1.CuatroFragment"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="2" />
+            android:layout_weight="2"
+            tools:layout="@layout/fragment_cuatro" />
     </LinearLayout>
 
 </LinearLayout>
