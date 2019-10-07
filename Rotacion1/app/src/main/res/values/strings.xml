@@ -3,4 +3,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_1">APLICACIONES II</string>
+    <string name="txt_2">EXAMEN PRÁCTICO</string>
+    <string name="txt_3">1RA EVALUACIÓN PARCIAL</string>
+    <string name="engineer">img_desc</string>
 </resources>
