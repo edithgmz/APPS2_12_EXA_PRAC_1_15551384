@@ -3,4 +3,19 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_1">Manga</string>
+    <string name="btn_2">Anime</string>
+    <string name="btn_3">Novelas</string>
+    <string name="img_1">bsdmanga</string>
+    <string name="img_2">bsdanime</string>
+    <string name="img_3">bsdnovelas</string>
+    <string name="txt_t_1">Bungo Stray Dogs (Manga)</string>
+    <string name="txt_c_1">Bungo Stray Dogs (文豪ストレイドッグス, Bungō Sutorei Doggusu; lit. Literary Stray Dogs) is a manga written by Kafka Asagiri and illustrated by Sango Harukawa. It began serialization in 2012. It came in at number 11 for the \"Nationwide Bookstore Employees\' Recommended Comics of 2014\".</string>
+    <string name="txt_t_2">Bungo Stray Dogs (Anime)</string>
+    <string name="txt_c_2">Bungo Stray Dogs (文豪ストレイドッグス Bungō Sutorei Doggusu, lit. Literary Stray Dogs?) is the anime adaptation of the manga series of the same name. It is produced by Studio BONES and has premiered on Tokyo MX and other TV networks. Takuya Igarashi was hired as the director and Yoji Enokido as the screenwriter (the same duo that worked on Ouran High School Host Club and Star Driver). The anime ran for 2 separate cours, with the first cour airing from April 7th 2016 to June 23rd, 2016 and the second cour airing from October 6th, 2016 to December 17, 2016. The third course is slated for 12 April 2019.</string>
+    <string name="txt_t_3">Novel Chapters</string>
+    <string name="txt_c_3">The Light Novel adaptation of Bungo Stray Dogs manga, written by Kafka Asagiri and illustrated by Sango Harukawa, and it is published by Kadokawa Beans Bunko press. There are currently six novels pressed and released that tie in with the manga series. Thus far, Yen Press announced an English publication of Osamu Dazai\'s Entrance Exam.</string>
+    <string name="txt_e_1">Media, Manga</string>
+    <string name="txt_e_2">Media, Anime, Episodes</string>
+    <string name="txt_e_3">Chapters, Novels</string>
 </resources>

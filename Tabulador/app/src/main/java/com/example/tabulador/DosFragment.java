@@ -2,21 +2,20 @@ package com.example.tabulador;
 
 
 import android.os.Bundle;
-
-import androidx.fragment.app.Fragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import androidx.fragment.app.Fragment;
 
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class Dos extends Fragment {
+public class DosFragment extends Fragment {
 
 
-    public Dos() {
+    public DosFragment() {
         // Required empty public constructor
     }
 
